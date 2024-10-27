@@ -1,6 +1,6 @@
 # dailyPython - Daily coding challenges
 
-**[dailyPython](https://douglasdevelop.github.io/dailyPython/)** is a free and fun way to learn python, whether you're just starting or already have some prior knowledge.
+**[dailyPython](https://douglasdevelop.github.io/dailyPython/)** is a free and fun way to learn python, whether you're just getting started or already have some prior knowledge.
 
 Try it here! https://douglasdevelop.github.io/dailyPython/
 
